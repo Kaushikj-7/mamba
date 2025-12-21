@@ -9,3 +9,8 @@ build/
 .venv/
 venv/
 *.venv
+
+# Data
+data/
+!data/.gitkeep
+checkpoints/
